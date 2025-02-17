@@ -1,0 +1,60 @@
+.navbar-nav .nav-item .nav-link {
+    color: white; 
+  }
+.navbar-nav .nav-item .nav-link:hover {
+    
+    color: #6699CC;
+    box-shadow: inset 0 -1.5px 0 0 #6699CC; 
+  }
+.navbar-nav .nav-item .nav-link.active {
+    color: #6699CC;
+    box-shadow: inset 0 -1.5px 0 0 #6699CC; 
+  }
+  
+.wholeContainer{
+    background-image: linear-gradient(#6699CC,#003B6D ) ;
+}
+
+h1{
+    color: white;
+    text-shadow: 2px 2px 2px #000000;
+}
+.lead{
+    color: white;
+    text-shadow: 2px 2px 2px #000000;
+}
+.btn .btn-primary{
+    background-color: #003B6D;
+    border-color: #6699CC;
+}
+
+ul li{
+    color: white;
+}
+
+ul li a{
+    color: white;
+}
+ul li a:hover{
+    color: #6699CC;
+}
+
+h3{
+    color: white;
+    text-shadow: 2px 2px 2px #000000;
+}
+p a{
+    color: white;
+}
+p a:hover{
+    color: #6699CC;
+}
+.formContainer{
+    padding-left: 25%;
+    padding-right:25%;
+    padding-top:3%;
+    padding-bottom:5%;
+}
+path{
+    fill: #BDBDBD;
+}
